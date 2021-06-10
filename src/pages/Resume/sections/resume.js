@@ -13,32 +13,7 @@ export default function Resume() {
                   <article className="resume__article">
                      <div className="resume__article-title">
                         <h4 className="resume__article-h4">
-                           Freelance Front-End Developer (part-time)
-                        </h4>
-                     </div>
-                     <div className="resume__article-company">
-                        <small className="resume__article-small">
-                           Cognitic.ie
-                        </small>
-                     </div>
-                     <div className="resume__article-date">
-                        <span className="resume__article-span">
-                           2020 - Present
-                        </span>
-                     </div>
-
-                     <div className="resume__description">
-                        <p className="paragraph resume__p">
-                           Working with a team of developers to build user interface.
-                           Designing and implementing the front-end using ReactJS.
-                        </p>
-                     </div>
-                  </article>
-
-                  <article className="resume__article">
-                     <div className="resume__article-title">
-                        <h4 className="resume__article-h4">
-                           Front-End Developer (full-time)
+                           Front-End Developer
                         </h4>
                      </div>
                      <div className="resume__article-company">
