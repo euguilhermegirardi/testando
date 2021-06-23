@@ -31,7 +31,7 @@ export default function Main() {
                      <li className="main__li">
                         <div className="main__item">
                            <FaCheck className="main__svg" />
-                           <p className="main__p">ReactJS</p>
+                           <p className="main__p">React</p>
                         </div>
                         <div className="main__item">
                            <FaCheck className="main__svg" />

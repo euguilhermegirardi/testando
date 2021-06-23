@@ -290,7 +290,7 @@ export default function Featured() {
                               <h3 className="featured__project">Knots 4 You</h3>
                            </a>
                            <div className="featured__techs-container">
-                              <span className="featured__techs">ReactJS</span>
+                              <span className="featured__techs">React</span>
                               <span className="featured__techs">
                                  React Hooks
                               </span>
@@ -360,7 +360,7 @@ export default function Featured() {
                               </h3>
                            </a>
                            <div className="featured__techs-container">
-                              <span className="featured__techs">ReactJS</span>
+                              <span className="featured__techs">React</span>
                               <span className="featured__techs">
                                  React Hooks
                               </span>
@@ -426,7 +426,7 @@ export default function Featured() {
                               <h3 className="featured__project">E-Commerce</h3>
                            </a>
                            <div className="featured__techs-container">
-                              <span className="featured__techs">ReactJS</span>
+                              <span className="featured__techs">React</span>
                               <span className="featured__techs">
                                  Class Component
                               </span>
@@ -494,7 +494,7 @@ export default function Featured() {
                               </h3>
                            </a>
                            <div className="featured__techs-container">
-                              <span className="featured__techs">ReactJS</span>
+                              <span className="featured__techs">React</span>
                               <span className="featured__techs">
                                  Redux-Saga
                               </span>

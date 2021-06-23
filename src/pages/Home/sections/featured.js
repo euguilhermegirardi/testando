@@ -147,7 +147,7 @@ export default function Featured() {
                            <h3 className="featured__project">Knots 4 You</h3>
                         </a>
                         <div className="featured__techs-container">
-                           <span className="featured__techs">ReactJS</span>
+                           <span className="featured__techs">React</span>
                            <span className="featured__techs">React Hooks</span>
                            <span className="featured__techs">Redux-Saga</span>
                         </div>
@@ -211,7 +211,7 @@ export default function Featured() {
                            <h3 className="featured__project">Spotify (web)</h3>
                         </a>
                         <div className="featured__techs-container">
-                           <span className="featured__techs">ReactJS</span>
+                           <span className="featured__techs">React</span>
                            <span className="featured__techs">Redux-Saga</span>
                            <span className="featured__techs">Duck Pattern</span>
                         </div>
